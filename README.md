@@ -6,7 +6,7 @@ This is my Ruby on Rails Friends List App!
 
 Follow me at Codemy.com
 
-# Noting
+# Note
 
 This is part of the Ruby on Rails course by freeCodeCamp. Huge thanks to John!
 
