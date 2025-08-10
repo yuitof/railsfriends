@@ -1,24 +1,13 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is John Elder and I work at Codemy.com
 
-Things you may want to cover:
+This is my Ruby on Rails Friends List App!
 
-* Ruby version
+Follow me at Codemy.com
 
-* System dependencies
+# Noting
 
-* Configuration
+This is part of the Ruby on Rails course by freeCodeCamp. Huge thanks to John!
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Watch the video](https://img.youtube.com/vi/fmyvWz5TUWg/maxresdefault.jpg)](https://youtu.be/fmyvWz5TUWg)
